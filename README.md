@@ -1,6 +1,6 @@
 ### Hi there,
 :octocat: I treat GitHub as a private repository for code snippets.  
-:robot: I automate everything <s>because I'm lazy</s> because I want to constantly improve and test my skills with new challenges.   
+:robot: I automate everything because <s>I'm lazy</s> I want to constantly improve and test my skills with new challenges.   
 :school: <a href="https://pg.edu.pl">Gdańsk University of Technology</a>: Master of Computer Science  
 :office: <a href="https://www.ergo.com/pl-PL/Microsites/ETS/Start">EH</a>: Software Engineer  
 
